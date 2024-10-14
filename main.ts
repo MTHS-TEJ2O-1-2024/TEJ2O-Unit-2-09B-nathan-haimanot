@@ -1,7 +1,7 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: Mr. Coxall
- * Created on: Sep 2020
+ * Created by: Nathan
+ * Created on: Oct 2024
  * This program does rock paper scissor
 */
 
